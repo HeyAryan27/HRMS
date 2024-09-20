@@ -1,0 +1,33 @@
+
+@media  only screen and (max-width: 290px) {
+    .Blue{
+        /* width: 20px;
+         */
+         height: 200px;
+         /* background-color: red; */
+    }
+    .responsive-grid-1 {
+      flex-direction: column;
+      
+    
+      }
+      
+      /* .blue{
+        margin-right: 200px;
+      } */
+  
+   
+   .Circle{
+    margin-left: 310px;
+    margin-top: -120px;
+   }
+   .Text{
+    /* background-color: red; */
+    margin-left: -250px;
+   }
+   .Button{
+    /* background-color: blue; */
+    margin-left: -220px;
+   }
+  
+      }
